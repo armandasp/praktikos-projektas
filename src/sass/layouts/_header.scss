@@ -1,0 +1,44 @@
+.pages{
+  background: $color-grey2;
+  color: white;
+  .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .left{
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      h2{
+        font-size: 32px;
+      }
+      img{
+        margin: 20px 20px 20px 0;
+        width: 50px;
+      }
+    }
+  }
+  nav{
+    a{
+      font-size: 18px;
+      text-transform: uppercase;
+      margin-left: 60px;
+
+      padding: 5px;
+      &:hover{
+        border-bottom: 1px solid #ef402a;
+      }
+    }
+  }
+  .page_name{
+    max-width: 1170px;
+    margin: auto;
+    padding: 0 10px;
+    h3{
+      margin-top: 45px;
+      text-align: left;
+      font-size: 45px;
+      text-transform: capitalize;
+    }
+  }
+}

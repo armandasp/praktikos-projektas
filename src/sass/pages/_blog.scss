@@ -1,0 +1,16 @@
+section.posts{
+  .container{
+    .post{
+
+    }
+    .comment{
+      height: 100px;
+      .ti-user{
+        width: 10px;
+        height: 10px;
+        font-size: 21px;
+        color: black;
+      }
+    }
+  }
+}
