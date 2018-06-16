@@ -29,3 +29,7 @@
     </section>
 </footer>
 <script src="js/main.js"></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDFE0fdnEsGu73SvUZeUB5W0dyLdtT4UKQ&callback=initMap">
+</script>
+<script src="lodash.js"></script>

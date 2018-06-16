@@ -68,18 +68,24 @@
 
             <div class="right">
 
-                <div class="post">
-                    <h4><span><i class="fa fa-paragraph"></i></span> typography</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad blanditiis commodi error praesentium quis. Cupiditate natus repellat saepe suscipit voluptate!</p>
+                <div class="border">
+                    <div class="post">
+                        <h4><span class="ti-paragraph"></span> typography</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad blanditiis commodi error praesentium quis. Cupiditate natus repellat saepe suscipit voluptate!</p>
+                    </div>
                 </div>
-                <div class="post">
-                    <h4><span><i class="fa fa-paper-plane"></i></span> full icon set</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad blanditiis commodi error praesentium quis. Cupiditate natus repellat saepe suscipit voluptate!</p>
+                <div class="border">
+                    <div class="post">
+                        <h4><span class="ti-vector"></span> full icon set</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad blanditiis commodi error praesentium quis. Cupiditate natus repellat saepe suscipit voluptate!</p>
+                    </div>
                 </div>
 
-                <div class="post">
-                    <h4><span><i class="fa fa-globe"></i></span> accurate</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad blanditiis commodi error praesentium quis. Cupiditate natus repellat saepe suscipit voluptate!</p>
+                <div class="border">
+                    <div class="post">
+                        <h4><span class="ti-ruler-alt-2"></span> accurate</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad blanditiis commodi error praesentium quis. Cupiditate natus repellat saepe suscipit voluptate!</p>
+                    </div>
                 </div>
 
             </div>
@@ -143,45 +149,54 @@
         <div class="posts">
 
             <div class="post">
-                <h3>just another blog post</h3>
-                <div class="d-line"></div>
-                <span class="ti-user"></span>
-                <p>by author</p>
-                <span class="ti-calendar"></span>
-                <p>9 November 2014</p>
-                <span class="ti-comment"></span>
-                <p>3</p>
-                <div class="clearfix"></div>
-                <p class="last-order">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, dicta distinctio ea eum, fugit harum impedit in incidunt ipsum, magni maxime molestiae neque odio quae quibusdam sunt suscipit voluptatum.</p>
-                <div class="button-readMore">read more</div>
+                <img src="img/blog-posts/post1.jpg" alt="">
+                <div class="inside">
+                    <h3>just another blog post</h3>
+                    <div class="d-line"></div>
+                    <span class="ti-user"></span>
+                    <p>by author</p>
+                    <span class="ti-calendar"></span>
+                    <p>9 November 2014</p>
+                    <span class="ti-comment"></span>
+                    <p>3</p>
+                    <div class="clearfix"></div>
+                    <p class="last-order">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, dicta distinctio ea eum, fugit harum impedit in incidunt ipsum, magni maxime molestiae neque odio quae quibusdam sunt suscipit voluptatum.</p>
+                    <div class="button-readMore">read more</div>
+                </div>
             </div>
 
             <div class="post">
-                <h3>blog post with youtube video</h3>
-                <div class="d-line"></div>
-                <span class="ti-user"></span>
-                <p>by author</p>
-                <span class="ti-calendar"></span>
-                <p>29 December 2014</p>
-                <span class="ti-comment"></span>
-                <p>1</p>
-                <div class="clearfix"></div>
-                <p class="last-order">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, dicta distinctio ea eum, fugit harum impedit in incidunt ipsum, magni maxime molestiae neque odio quae quibusdam sunt suscipit voluptatum.</p>
-                <div class="button-readMore">read more</div>
+                <img src="img/blog-posts/post2.jpg" alt="">
+                <div class="inside">
+                    <h3>blog post with youtube video</h3>
+                    <div class="d-line"></div>
+                    <span class="ti-user"></span>
+                    <p>by author</p>
+                    <span class="ti-calendar"></span>
+                    <p>29 December 2014</p>
+                    <span class="ti-comment"></span>
+                    <p>1</p>
+                    <div class="clearfix"></div>
+                    <p class="last-order">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, dicta distinctio ea eum, fugit harum impedit in incidunt ipsum, magni maxime molestiae neque odio quae quibusdam sunt suscipit voluptatum.</p>
+                    <div class="button-readMore">read more</div>
+                </div>
             </div>
 
             <div class="post">
-                <h3>this could be great</h3>
-                <div class="d-line"></div>
-                <span class="ti-user"></span>
-                <p>by author</p>
-                <span class="ti-calendar"></span>
-                <p>10 June 2014</p>
-                <span class="ti-comment"></span>
-                <p>0</p>
-                <div class="clearfix"></div>
-                <p class="last-order">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, dicta distinctio ea eum, fugit harum impedit in incidunt ipsum, magni maxime molestiae neque odio quae quibusdam sunt suscipit voluptatum.</p>
-                <div class="button-readMore">read more</div>
+                <img src="img/blog-posts/post3.jpg" alt="">
+                <div class="inside">
+                    <h3>this could be great</h3>
+                    <div class="d-line"></div>
+                    <span class="ti-user"></span>
+                    <p>by author</p>
+                    <span class="ti-calendar"></span>
+                    <p>10 June 2014</p>
+                    <span class="ti-comment"></span>
+                    <p>0</p>
+                    <div class="clearfix"></div>
+                    <p class="last-order">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, dicta distinctio ea eum, fugit harum impedit in incidunt ipsum, magni maxime molestiae neque odio quae quibusdam sunt suscipit voluptatum.</p>
+                    <div class="button-readMore">read more</div>
+                </div>
             </div>
 
         </div>
@@ -315,13 +330,13 @@
         <div class="opinions">
             <div class="response">
                 <div class="left">
-                    <img src="" alt="">
+                    <img src="img/index/responces/astrid.jpg" alt="">
                 </div>
                 <div class="right">
                     <h4>astrid jorgensen</h4>
-                    <p>CEO at Runway inc.</p>
+                    <p class="first">CEO at Runway inc.</p>
                     <div class="clearfix"></div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur culpa doloribus earum eligendi iure, laboriosam magnam maiores nostrum perspiciatis voluptates?</p>
+                    <p class="second">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur culpa doloribus earum eligendi iure, laboriosam magnam maiores</p>
                     <div class="red-squares">
                         <div class="red-square"></div>
                         <div class="red-square"></div>
@@ -329,13 +344,62 @@
                     </div>
                 </div>
             </div>
-            <div class="expanded">
-
+            <div class="response2">
+                <div class="expanded">
+                    <h3> <span class="ti-angle-up"></span>expanded</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut et nesciunt porro saepe vel. Ab adipisci beatae, debitis ea ipsum, mollitia nesciunt quas quidem, quis quo quod reiciendis tempora tempore!</p>
+                </div>
+                <div class="expanded">
+                    <h3><span class="ti-angle-up"></span>hovered</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut et nesciunt porro saepe vel. Ab adipisci beatae, debitis ea ipsum, mollitia nesciunt quas quidem, quis quo quod reiciendis tempora tempore!</p>
+                </div>
+                <div class="expanded">
+                    <h3><span class="ti-angle-up"></span>inactive</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut et nesciunt porro saepe vel. Ab adipisci beatae, debitis ea ipsum, mollitia nesciunt quas quidem, quis quo quod reiciendis tempora tempore!</p>
+                </div>
+                </div>
             </div>
         </div>
     </div>
 </section>
+<section class="contact-us">
+    <div class="container">
+        <div class="contactUs">
+            <h2>Get to know us better</h2>
+            <div class="m-line"></div>
+            <p>Contact us, and we will contact you back. Want to chat? We can do that too.</p>
+        </div>
+        <div class="moreInfo">
+            <div class="our-contacts">
+                <div class="contact">
+                    <span class="ti-location-pin"></span>
+                    <a href="">623 Fifth Avenue, New York, NY 10022, USA</a>
+                </div>
+                <div class="contact">
+                    <span class="ti-email"></span>
+                    <a href="mailto:randomness@expire.com">randomness@expire.com</a>
+                </div>
+                <div class="contact">
+                    <span class="ti-mobile"></span>
+                    <a href="tel:+(123)456 7890">Phone: +(123) 456 7890</a>
+                    <br>
+                    <a href="fax:+(123).456.7890">Fax: +(123) 456 7890</a>
+                </div>
+            </div>
+            <div class="message">
+                <input type="text" placeholder="Name" class="name">
+                <input type="text" placeholder="E-mail" class="email">
+                <input type="text" placeholder="Subject" class="subject">
+                <textarea cols="30" rows="10" placeholder="Message" class="messageme"></textarea>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="navigation-gps">
+    <div id="map"></div>
 
+</section>
+    <span class="ti-angle-up lastarrow" ></span>
 <?php include 'parts/footer.php'?>
 </body>
 </html>
